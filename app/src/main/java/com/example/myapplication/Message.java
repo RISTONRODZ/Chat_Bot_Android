@@ -1,3 +1,5 @@
+package com.example.myapplication;
+
 public class Message {
     public static String SENT_BY_ME = "me";
     public static String SENT_BY_BOT="bot";
