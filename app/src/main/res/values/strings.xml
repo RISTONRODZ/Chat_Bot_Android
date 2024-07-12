@@ -3,4 +3,6 @@
     <string name="send_a_message">Send a message</string>
     <string name="hello" />
     <string name="hello_wassup" />
+    <string name="welcome_send_a_message_to_start_chatting">Welcome! Send a message to start chatting.</string>
+    <string name="enter_your_message">Enter your message</string>
 </resources>
